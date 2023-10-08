@@ -1,0 +1,25 @@
+*{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.row{
+ /* transform: translate(-50% -50%); */
+ /* justify-content: center;
+ align-items: center; */
+ padding-top: 8%;
+} 
+h1{
+ text-shadow: 4px 8px 8px rgb(139, 132, 132);
+}
+.card{ 
+position: relative;
+transform: translate(-50% -50%);
+justify-content: center;
+align-items: center;
+box-shadow: 0px 0px 12px black;
+}
+#icon,#icon2,#icon3{
+position: absolute;
+font-size: 55px;
+color: white;
+opacity: 0;
+}
